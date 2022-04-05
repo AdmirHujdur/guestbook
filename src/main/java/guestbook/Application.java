@@ -60,7 +60,7 @@ public class Application {
 		return args -> {
 
 			Stream.of( //
-					new GuestbookEntry("H4xx0r", "first!!!"), //
+					new GuestbookEntry("H4xx0rE", "first!!!"), //
 					new GuestbookEntry("Arni", "Hasta la vista, baby"), //
 					new GuestbookEntry("Duke Nukem", "It's time to kick ass and chew bubble gum. And I'm all out of gum."), //
 					new GuestbookEntry("Gump1337",
